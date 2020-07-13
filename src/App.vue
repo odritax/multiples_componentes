@@ -18,7 +18,7 @@
           {texto:"CSS",url:"http://www.google.cl"},
           {texto:"Java Script 6",url:"http://www.youtube.com"},
           {texto:"VUE",url:"http://www.behance.com"},
-          {texto:"Python",url:"http://www.twitter.cl"}
+          {texto:"Python",url:"http://www.twitter.com"}
         ],
         Habilidades:[
           {texto:"Cocinar",url:"http://www.tinder.com"},
