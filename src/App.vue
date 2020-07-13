@@ -15,15 +15,15 @@
     data: () => {
       return {
         Habilidades_en_progreso:[
-          {texto:"CSS",url:"http://www.google.cl/"},
-          {texto:"Java Script 6",url:"http://www.youtube.cl/"},
-          {texto:"VUE",url:"http://www.behance.com/"},
-          {texto:"Python",url:"http://www.twitter.cl/"}
+          {texto:"CSS",url:"http://www.google.cl"},
+          {texto:"Java Script 6",url:"http://www.youtube.com"},
+          {texto:"VUE",url:"http://www.behance.com"},
+          {texto:"Python",url:"http://www.twitter.cl"}
         ],
         Habilidades:[
-          {texto:"Cocinar",url:"www.youtube.com"},
-          {texto:"Comer",url:"www.instagram.com"},
-          {texto:"Limpiar",url:"www.youtube.com"}
+          {texto:"Cocinar",url:"http://www.tinder.com"},
+          {texto:"Comer",url:"http://www.instagram.cl"},
+          {texto:"Limpiar",url:"http://www.sesamo.com"}
         ]
       };
     }
